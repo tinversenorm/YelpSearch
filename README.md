@@ -44,7 +44,7 @@ It was difficult to implement the search bar, but I realized I had to track the 
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2016] [Pranav Harathi]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
